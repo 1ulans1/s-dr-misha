@@ -1,0 +1,28 @@
+body {
+  padding: 0;
+  margin: 0;
+}
+.header {
+  padding: 10px 0;
+  margin: 0;
+  background-color: chocolate;
+  display: flex;
+  justify-content: center;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 700;
+  color: white;
+}
+.misha {
+  width: 100%;
+  position: absolute;
+}
+.s-dr {
+  position: relative;
+  display: flex;
+  justify-content: center;
+  top: 50vw;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 30px;
+  font-weight: 700;
+  color: white;
+}
